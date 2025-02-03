@@ -1,5 +1,3 @@
-
-<!DOCTYPE HTML5>
 <html lang="en">
   <style>
     html {
